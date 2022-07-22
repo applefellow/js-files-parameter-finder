@@ -14,3 +14,5 @@ This tool is capable to find all .js files from the given domain and the paramet
 ▶ js_paraminer.sh https://www.google.com
 ```
 ![js-files-parameter-finder](https://github.com/applefellow/js-files-parameter-finder/blob/main/js_paraminer.png?raw=true)
+Thanks and contribution to https://github.com/003random for getJS
+for more deatils about getJS go https://github.com/003random/getJS
