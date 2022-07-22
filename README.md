@@ -8,6 +8,9 @@ This tool is capable to find all .js files from the given domain and the paramet
 ▶ Then go to ~/go/bin
 ▶ sudo chmod +x getJS
 ▶ sudo cp getJS /usr/bin
+▶ git clone https://github.com/applefellow/js-files-parameter-finder.git
+▶ cd js-files-parameter-finder
+▶ sudo chmod +x js_paraminer.sh
 ▶ js_paraminer.sh https://www.google.com
 ```
-![nuclei_templates](https://user-images.githubusercontent.com/53038964/96104210-2dea3700-0ef6-11eb-834a-d33c028ddd5c.png)
+![js-files-parameter-finder](https://github.com/applefellow/js-files-parameter-finder/blob/main/js_paraminer.png?raw=true)
